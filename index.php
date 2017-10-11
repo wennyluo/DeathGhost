@@ -223,7 +223,7 @@ session_start();
 			<div class="hd-rt">
 				<ul>
 					<li>
-						<a href="#" target="_blank"><i class="icon-home"></i>前台访问</a>
+						<a href="../layui/index.php" target="_blank"><i class="icon-home"></i>前台访问</a>
 					</li>
 					<li>
 						<a href="exit.php"><i class="icon-random"></i>清除缓存</a>
